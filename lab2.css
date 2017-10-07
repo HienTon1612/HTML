@@ -1,0 +1,21 @@
+h1{	 
+	text-align: center; 
+	text-transform: uppercase; 
+	font-family: Tahoma,Geneva,sans-serif; 
+	font-size: 26px; 
+	font-weight: normal; 
+} 
+.red{ 
+	color: red; 
+} 
+.red2{
+	color: red;
+}.green{
+	color: green;
+}
+.blue{ 
+	color: blue; 
+} 
+.name{ 
+	font-weight: bold; 
+} 
